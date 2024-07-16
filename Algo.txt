@@ -2,3 +2,4 @@ Step 1: Place order over the phone
 Step 2: Wait for pizza to be cooked
 Step 3: Pay for pizza upon arrival
 Step 4: Eat the pizza
+Step 5: Save left overs
